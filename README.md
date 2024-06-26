@@ -2,7 +2,7 @@
 
 ## *feature-dashboard-mws*
 
-Dashboard MWS display the value of water temperature and digital power meter sensor and indicator of sensor and relay state in android apps. This feature using firebase realtime database to saving data from ESP32 and communicate between FisTx app and firmware. 
+Dashboard MWS display the value of water temperature and digital power meter sensor and indicator of sensor and relay state in android apps. This feature using firebase realtime database to saving data from ESP32 and communicate between App and firmware. 
 
 ## **Tools and Libraries**
 
